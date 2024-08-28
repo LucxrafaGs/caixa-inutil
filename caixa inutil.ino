@@ -1,9 +1,3 @@
-/* 
-Youtube channel AMERICA MECATRONICA
-Caixa inutil gato miando
-*/
-
-
 #include <Servo.h>                        
 
 Servo handServo;
